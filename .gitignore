@@ -1,0 +1,12 @@
+target/
+jdk/
+maven/
+*.class
+*.log
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+*.zip
